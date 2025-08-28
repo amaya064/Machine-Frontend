@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///D:/Project/MAS/Machine-Frontend/src/app/page.tsx"],"sourcesContent":["\nexport default function Home() {\n  return (\n    <div className=\"min-h-screen flex items-center justify-center bg-gray-50\">\n      <div className=\"max-w-md w-full space-y-8 p-8\">\n        <div className=\"text-center\">\n          <h1 className=\"text-3xl font-bold text-gray-900\">Sales CRM</h1>\n          <p className=\"mt-2 text-gray-600\">Sign in to your account</p>\n        </div>\n        <Home />\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AACe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAI,WAAU;;sCACb,8OAAC;4BAAG,WAAU;sCAAmC;;;;;;sCACjD,8OAAC;4BAAE,WAAU;sCAAqB;;;;;;;;;;;;8BAEpC,8OAAC;;;;;;;;;;;;;;;;AAIT","debugId":null}}]
+}
